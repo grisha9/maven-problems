@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Test Exmaple
+Bundle-Vendor: Grisha
+Bundle-SymbolicName: org.example.m1
+Bundle-Version: 1.0.0
+Bundle-Release-Date: 20230807
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: com.google.gson
+Export-Package: org.example
+Automatic-Module-Name: org.example.m1
